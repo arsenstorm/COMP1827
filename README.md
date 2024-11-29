@@ -17,7 +17,7 @@ The dataset used is the
 - **Models**: Scripts prefixed with `model_` are used for training and
   evaluating machine learning models.
 
-> **Note**:
+> [!NOTE]
 >
 > All models have already been optimized.
 
