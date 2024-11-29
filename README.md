@@ -19,7 +19,7 @@ The dataset used is the
 
 > [!NOTE]
 >
-> All models have already been optimized.
+> All models have already been optimised.
 
 ## Results
 

@@ -45,7 +45,7 @@ def calculate_success_score(train_rmse, test_rmse, cv_rmse, mean_target):
     and cross-validation RMSE relative to the mean target value.
 
     Weights:
-        - 40% for Cross-Validation RMSE (most important for generalization)
+        - 40% for Cross-Validation RMSE (most important for generalisation)
         - 30% for Testing RMSE
         - 30% for Training RMSE
     """
