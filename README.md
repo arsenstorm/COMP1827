@@ -28,6 +28,14 @@ The dataset used is the
 - **Linear Regression** performed the worst due to its inability to handle
   non-linear relationships in the dataset.
 
+### Model Performance Results
+
+| **Rank** | **Model**             | **Cross-validated RMSE** | **Training Error** | **Testing Error** | **Success Score** |
+| -------- | --------------------- | ------------------------ | ------------------ | ----------------- | ----------------- |
+| **1**    | **XGBoost**           | 64,766.96                | 6.14%              | 21.52%            | 79.18%            |
+| **2**    | **Random Forest**     | 66,827.77                | 8.41%              | 23.03%            | 77.64%            |
+| **3**    | **Linear Regression** | 76,638.19                | 34.12%             | 37.00%            | 63.85%            |
+
 ### Summary
 
 The results align with expectations:
